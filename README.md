@@ -1,1 +1,1 @@
-# YOLOv5-COCO-AI-Notebooks-OVHcloud
+# Train YOLOv5 on a custom dataset with AI Notebooks (OVHcloud)
